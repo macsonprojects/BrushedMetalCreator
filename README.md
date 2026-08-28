@@ -1,10 +1,13 @@
 # Brushed Metal Creator
 
-A real-time, procedural brushed metal texture generator for Android. Crafted with Jetpack Compose, this app allows users to create high-quality, customizable metal surfaces with a variety of finishes, gradients, and grain intensities.
-
-![App Header](https://via.placeholder.com/800x400?text=Brushed+Metal+Creator+Preview)
+Welcome to my sideproject. The original plan was simple - create a dark, brushed steel background that I could use as a background in another project. I got a bit carried away adding extra features.
 
 ## Features
+
+<img src="assets/Screenshot_20260828_165953_Brushed Metal Creator.jpg"
+	align="right"
+    width="150"
+    style="margin-left:20px; margin-bottom:20px;" />
 
 - **Procedural Engine**: Generate infinite variations of brushed metal textures without using external assets.
 - **Real-time Customisation**: Adjust parameters and see the results instantly.
@@ -40,12 +43,6 @@ A real-time, procedural brushed metal texture generator for Android. Crafted wit
    ```
 2. Open the project in Android Studio.
 3. Build and run the app on an emulator or physical device.
-
-## Screenshots
-
-| Editor Screen | About Screen |
-| :---: | :---: |
-| ![Editor](https://via.placeholder.com/300x600?text=Editor+Screen) | ![About](https://via.placeholder.com/300x600?text=About+Screen) |
 
 ## License
 
