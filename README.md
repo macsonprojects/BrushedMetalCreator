@@ -1,12 +1,12 @@
 # Brushed Metal Creator
 
-Welcome to my sideproject. The original plan was simple - create a dark, brushed steel background that I could use as a background in another project. I got a bit carried away adding extra features:
+Welcome to my sideproject. The original plan was simple - create a dark, brushed steel background that I could use for custom backgrounds, icons and buttons in other projects. I got a bit carried away adding extra features:
 
 - **Highlights & Shadows**: Adjust highlights and shadows independently.
 - **Falloff Curve**: Adjust the highlight/midtones/shadows transition from gentle to abrupt.
-- **Gradients**: Toggle between Linear and Radial gradients.
+- **Gradients**: Choose between Linear and Radial gradients.
 - **Grain Intensity**: Adjust the brushed effect from fine to coarse.
-- **Colour Palettes**: Choose from preset metallic colours, or define your own custom shades in the Settings screen.
+- **Colour Palettes**: Choose from preset metallic colours, or define your own custom colours in the Settings screen.
 - **Export**: Export as PNG or JPG at your device's screen resolution, no UI overlay, no watermark, no camera notch.
 - **Gesture-driven UI**: Tap and swipe to adjust values, then swipe to close the overlay and view your image.
 
