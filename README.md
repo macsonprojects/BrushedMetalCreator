@@ -14,7 +14,7 @@ Welcome to my sideproject. The original plan was simple - create a dark, brushed
 
 | Editor | Editor | Settings |
 |:---:|:---:|:---:|
-| ![Editor](https://github.com/macsonprojects/BrushedMetalCreator/blob/main/assets/Screenshot_20260828_155356_Brushed%20Metal%20Creator.jpg) | ![Export](https://github.com/macsonprojects/BrushedMetalCreator/blob/main/assets/Screenshot_20260828_165953_Brushed%20Metal%20Creator.jpg) | ![Settings](Settings image here) |
+| ![Editor](https://github.com/macsonprojects/BrushedMetalCreator/blob/main/assets/Screenshot_20260828_155356_BMC_cr.png) | ![Export](https://github.com/macsonprojects/BrushedMetalCreator/blob/main/assets/Screenshot_20260828_165953_BMC_rs.png) | ![Settings](https://github.com/macsonprojects/BrushedMetalCreator/blob/main/assets/Screenshot_20260829_125104_BMC_rs.png) |
 
 ## Tech Stack
 
