@@ -16,11 +16,14 @@ Welcome to my sideproject. The original plan was simple - create a dark, brushed
 |:---:|:---:|:---:|
 | ![Editor](https://github.com/macsonprojects/BrushedMetalCreator/blob/main/assets/Screenshot_20260828_155356_BMC_cr.png) | ![Export](https://github.com/macsonprojects/BrushedMetalCreator/blob/main/assets/Screenshot_20260828_165953_BMC_rs.png) | ![Settings](https://github.com/macsonprojects/BrushedMetalCreator/blob/main/assets/Screenshot_20260829_125104_BMC_rs.png) |
 
+## Download
+[**Download the latest APK**](https://github.com/macsonprojects/BrushedMetalCreator/releases/download/v1.0/BMC-v1.apk)
+
 ## Tech Stack
 
 - Kotlin, Jetpack Compose.
 
-### Prerequisites
+## Prerequisites
 
 - Android Studio Ladybug or newer.
 - Android SDK 26+ (Android 8.0).
